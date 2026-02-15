@@ -1,0 +1,10 @@
+{
+  "id": "003_newsletter",
+  "sender": "news@techblog.com",
+  "subject": "Weekly Tech Digest",
+  "body": "Top stories this week:\n- AI advances\n- Cloud security updates\n- DevOps best practices",
+  "html_body": "Top stories this week:\n- AI advances\n- Cloud security updates\n- DevOps best practices",
+  "date": "2026-02-15T13:23:37.825192",
+  "read": false,
+  "category": null
+}

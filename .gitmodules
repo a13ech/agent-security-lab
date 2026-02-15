@@ -1,3 +1,6 @@
 [submodule "vulnerable-calculator"]
 	path = vulnerable-calculator
 	url = https://github.com/a13ech/vulnerable-calculator.git
+[submodule "email-agent"]
+	path = email-agent
+	url = https://github.com/a13ech/email-agent.git

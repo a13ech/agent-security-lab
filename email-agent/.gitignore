@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+emails/sent/
+agent_audit.log

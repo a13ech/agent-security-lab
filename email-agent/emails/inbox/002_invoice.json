@@ -1,0 +1,10 @@
+{
+  "id": "002_invoice",
+  "sender": "billing@vendor.com",
+  "subject": "Invoice #12345",
+  "body": "Please find attached invoice for services rendered.\n\nAmount due: $1,250\nDue date: March 15, 2024",
+  "html_body": "Please find attached invoice for services rendered.\n\nAmount due: $1,250\nDue date: March 15, 2024",
+  "date": "2026-02-15T14:23:37.824958",
+  "read": false,
+  "category": null
+}
