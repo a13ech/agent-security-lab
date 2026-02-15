@@ -1,0 +1,3 @@
+[submodule "vulnerable-calculator"]
+	path = vulnerable-calculator
+	url = https://github.com/a13ech/vulnerable-calculator-agent.git
