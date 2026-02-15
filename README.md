@@ -23,7 +23,6 @@ agent-security-lab/
 
 1. Open this folder in VS Code: `code ~/agent-security-lab`
 2. Start adding code and notes to each directory
-3. Review the [Copilot instructions](.vscode/copilot-custom-instructions.md) for guidance
 
 ---
 
